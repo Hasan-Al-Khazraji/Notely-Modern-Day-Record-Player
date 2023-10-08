@@ -1,4 +1,7 @@
 # Notely
+
+<p align="center"><img src="./NotelyBox.jpg" width="1008"></p>
+
 ## Modern Day Spotify Record Player Powered By RFID
 
 Notely is a modern take on how record players could work.
